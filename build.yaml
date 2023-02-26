@@ -14,3 +14,4 @@
 ---
 include:
   - board: nrfmicro_13
+    shield: tbk_mini_left
